@@ -1,0 +1,9 @@
+Bài 1 : https://docs.google.com/document/d/1Gus0sIC7tjQZtgXYmtTZ5FZiDTjNMg--crb5BTpE-BA/edit
+Bài 2: https://docs.google.com/document/d/15t8mvFVJlMfanb7jEWgNOpaf2I7DzWFtgyMG55Z699I/edit
+Bài 3: https://docs.google.com/document/d/1jpJvZV20L3g1X_b9tPzW5_jCs8M-2dj0oaRRx3Odeds/edit
+
+Bài 4: tạo 1 mảng các loại hoa quả. tạo prompt cho phép người dùng nhập vào tên một loại quả, nếu loại quả đó tồn tại trong mảng thì alert ra link
+hình ảnh về quả đó, nếu không alert k tìm thấy
+các kiến thức cần áp dụng
+loop
+if - break
