@@ -133,3 +133,7 @@ hr{
     display: inline-block;
     margin-right: 7px;
 }
+
+.splide__list li{
+    padding: 15px 50px
+}
